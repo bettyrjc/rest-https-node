@@ -2,5 +2,4 @@
 node_modules 
 keys
 
-/postgres
-/dist
+/postgresgit
